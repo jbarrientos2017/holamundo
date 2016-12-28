@@ -5,7 +5,7 @@ $a=10;
 
 $suma = $c+$a;
 
-echo "la suma de la operacion es  2" + $suma;
+echo "la suma de la operacion es  2" . $suma;
 
 
 ?>
